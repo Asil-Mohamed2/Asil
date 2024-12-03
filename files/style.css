@@ -390,7 +390,7 @@ body {
 }
 
 .progress-line.css span::after {
-    content: "80%";
+    content: "95%";
 }
 
 .progress-line.python span::after {
