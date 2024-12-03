@@ -357,11 +357,7 @@ body {
 }
 
 .progress-line.css span {
-    width: 80%;
-}
-
-.progress-line.python span {
-    width: 75%;
+    width: 95%;
 }
 
 .progress-line.java span {
