@@ -300,7 +300,7 @@ body {
     text-decoration: underline;
     text-underline-offset: 5px;
     text-decoration-thickness: 5px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 .bar {
@@ -427,7 +427,7 @@ body {
 .radial-bars .radial-bar {
     width: 50%;
     height: 170px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     position: relative;
 }
 
@@ -506,7 +506,7 @@ body {
 }
 .main-text {
     padding-top: 50px;
-    margin-top: 10px;
+    margin-top: 30px;
     padding-bottom: 130px;
 }
 
